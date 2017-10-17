@@ -1,0 +1,24 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "an Amazon-like storefront created with the MySQL to display a customer view",
+  "main": "bamazonCustomer.js",
+  "dependencies": {
+    "inquirer": "^3.3.0",
+    "mysql": "^2.15.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node bamazonCustomer.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coop741/Bamazon-Challenge-1.git"
+  },
+  "author": "Trent Cooper",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coop741/Bamazon-Challenge-1/issues"
+  },
+  "homepage": "https://github.com/coop741/Bamazon-Challenge-1#readme"
+}
